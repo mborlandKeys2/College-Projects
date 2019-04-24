@@ -1,0 +1,90 @@
+body
+{
+ background-color: antiquewhite; 
+
+}
+.below_menu_container 
+{
+    padding-top: 50px;
+}
+.navbar_format 
+{
+    border: 0px;
+    background-color: #485BCF;
+}
+.navbar-inverse .navbar-brand 
+{
+    color: white;
+   
+}
+.navbar-inverse .navbar-nav>li>a
+{
+    color: white;
+
+}
+
+
+.active
+{
+    color: #00117A;
+
+}
+   .video_embeded_syle
+ {
+ 	max-width:300px; 
+ 	max-height: 200px; 
+ 	min-width: 	150px; 
+ 	min-height: 100px;
+
+
+ }
+
+
+.dropdown-menu li>a:hover
+{
+	color: forestgreen; 
+	
+}
+.style_foot
+{
+padding-top: 25px;
+border-top: solid 3px antiquewhite; 
+
+}
+#underline_Gender
+{
+text-decoration: underline;
+
+}
+#registration
+{
+color: white;
+background-color: #485BCF;  
+}
+#reset
+{
+color: white; 
+background-color: black;  
+}
+.padding_Video
+{
+	padding-top: 50px;
+
+}
+#submit_Ticket
+{
+background-color: #485BCF;  
+color: white;
+
+}
+.btn-lg
+{
+background-color: #485BCF;  
+color: white;
+}
+#Back:hover
+{ 
+color: white;
+opacity: .5; 
+text-decoration: none;
+}
